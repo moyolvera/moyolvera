@@ -1,22 +1,24 @@
-### Moy Olvera - Github Profile 👋🐶
+### Hola amigo 👋🐶
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=moyolvera)
 
-Hello, my name is Moy, I'm a (React Native) Software Developer; Husband; Gamer; BBQ enthusiast; Dog person; I'm based in Mexico, I speak Spanish and English and I code for fun.
+Hello, my name is Moy Olvera, I'm a (React Native) Software Developer; Husband; Gamer; BBQ enthusiast; Beer & Whiskey enjoyer; Dog lover; 
+I'm based in Mexico 🇲🇽, I speak Spanish and English [🇪🇸🇬🇧] and love my job.
 
-- 🔭 I’m currently working at @luxoft & @pushpay
-- 🌱 I’m currently learning how to be a husband
-- 💬 Ask me about football, movies, anime, series, react native!!
-
-- ⚡ Fun fact: I have 3 dogs - Koda, Cabo, Coli
+- 🔭 currently working at @luxoft & @pushpay
+- 🌱 learning how to be a husband
+- 👯 looking to collaborate on RN projects
+- 📫 reach me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%90%B6-moy-olvera-43062a168/) (in the meantime)
+- 💬 ask me about football, movies, anime, series, beer, bbq, my dogs, react native!!
+- ⚡ ... I have 3 dogs 🐶 - Koda, Cabo, Coli
 
 ### Get in touch
 
 Open your [Expo GO App](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) and scan this code:
 
 <p align="left"> 
-  <img src="https://iili.io/6Pd0Be.png" alt="my cv" width="100" height="100"/> 
+  <img src="https://media-exp1.licdn.com/dms/image/C4D2DAQHzj0dpQEpwKQ/profile-treasury-image-shrink_1920_1920/0/1648153090650?e=1665637200&v=beta&t=fxvEOJTzf869upCpLw6KLasmeqwuuftwK7of6taAi20" alt="my cv" width="120" height="120"/> 
 </p>
 
 ### Languages and Tools
