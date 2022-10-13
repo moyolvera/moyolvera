@@ -9,7 +9,7 @@ I'm based in Mexico 🇲🇽, I speak Spanish and English [🇪🇸🇬🇧] and
 - 🔭 currently working at @luxoft & @pushpay
 - 🌱 learning how to be a husband
 - 👯 looking to collaborate on RN projects
-- 📫 reach me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%90%B6-moy-olvera-43062a168/) (in the meantime)
+- 📫 reach me on [my page](https://moyolvera.github.io/)
 - 💬 ask me about football, movies, anime, series, beer, bbq, my dogs, react native!!
 - ⚡ ... I have 3 dogs 🐶 - Koda, Cabo, Coli
 
