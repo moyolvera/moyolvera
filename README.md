@@ -9,7 +9,7 @@ I'm based in Mexico 🇲🇽, I speak Spanish and English [🇪🇸🇬🇧] and
 - 🔭 currently working at @luxoft & @pushpay
 - 🌱 learning how to be a husband
 - 👯 looking to collaborate on RN projects
-- 📫 reach me on [my page](https://moyolvera.github.io/)
+- 📫 reach me on [my potfolio page](https://moyolvera.github.io/) and send me a message!
 - 💬 ask me about football, movies, anime, series, beer, bbq, my dogs, react native!!
 - ⚡ ... I have 3 dogs 🐶 - Koda, Cabo, Coli
 
@@ -18,7 +18,7 @@ I'm based in Mexico 🇲🇽, I speak Spanish and English [🇪🇸🇬🇧] and
 Open your [Expo GO App](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) and scan this code:
 
 <p align="left"> 
-  <img src="https://media-exp1.licdn.com/dms/image/C4D2DAQHzj0dpQEpwKQ/profile-treasury-image-shrink_1920_1920/0/1648153090650?e=1665637200&v=beta&t=fxvEOJTzf869upCpLw6KLasmeqwuuftwK7of6taAi20" alt="my cv" width="120" height="120"/> 
+  <img src="https://firebasestorage.googleapis.com/v0/b/ilnamiki.appspot.com/o/expo-go-cv.png?alt=media&token=26bbe624-b561-49d7-ad1b-09418788bf4b" alt="my cv" width="140" height="140"/> 
 </p>
 
 ### Languages and Tools
