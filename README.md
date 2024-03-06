@@ -3,15 +3,15 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=moyolvera)
 
-Hello, my name is Moy Olvera, I'm a Software Developer; My primary focus is React Native; I'm a Husband; A Gamer; BBQ enthusiast; Beer & Whiskey enjoyer; And a Dog lover; 
-I live in Mexico 🇲🇽; I speak Spanish and English [🇪🇸🇬🇧] and love my job.
+Hi, my name is Moy Olvera, I'm a Software Developer; My primary focus is React Native and Web; I'm a Husband; A Gamer; BBQ enthusiast; Beer & Whiskey enjoyer; Love Dogs; 
+I live in Mexico 🇲🇽; I speak Spanish and English [🇪🇸🇬🇧] and I'm living the dream.
 
 - 🔭 currently working at @luxoft & @pushpay
 - 🌱 learning how to be a husband
 - 👯 looking to collaborate on RN projects
 - 📫 reach me on [my potfolio page](https://moyolvera.github.io/) and send me a message!
-- 💬 ask me about football, movies, anime, series, beer, bbq, dogs, react native!!
-- ⚡ ... I have 3 dogs 🐶 - Koda, Cabo, Coli
+- 💬 ask me about football, movies, anime, series, beer, bbq, dogs, react native, javascript
+- ⚡ ... I have 3 dogs 🐶 - Rocket, Cabo, Coli
 
 ### Get in touch
 
