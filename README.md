@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=moyolvera)
 
 <h3>Hola, I'm Moy.<br>Full stack software developer</h3>
-<p>I am a dedicated and responsible professional who believes in hard work and continuous growth. I honor my commitments with persistence and integrity, driven by passion for my family and work.</p>
+<p>I am a dedicated professional who believes in hard work and continuous growth. I honor my commitments with persistence and integrity, driven by passion for my family and work.</p>
 
 <p>
   <a href="https://skillicons.dev">
